@@ -1,4 +1,4 @@
-### Hi there, don't mind me, just doing some deep learning.👋
+### Hi there, don't mind me, just doing some deep learning.👨‍💻
 
 <!--
 **TheProOfficial/TheProOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
